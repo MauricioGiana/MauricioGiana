@@ -1,4 +1,4 @@
-<img src="https://github.com/MauricioGiana/MauricioGiana/blob/9005c18ae14f6bc86d66459fd90672b88af2e808/assets/ezgif.com-gif-maker.gif" align="center"/>
+<div slign="center"><img src="https://github.com/MauricioGiana/MauricioGiana/blob/9005c18ae14f6bc86d66459fd90672b88af2e808/assets/ezgif.com-gif-maker.gif"/></div>
           <h1 align="center">Hi 👋, I'm Mauricio Giana</h1>
 <h3 align="center">An Argentinian Full-Stack Dev looking for challenges and knowledge.</h3>
 
