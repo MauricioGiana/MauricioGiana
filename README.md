@@ -1,7 +1,5 @@
 
 
-<img src="https://github.com/MauricioGiana/MauricioGiana/blob/93ae26ff4bbdb96605f31b8778626fb19a039450/assets/Morgan%20Codes%204K%20wallpaper%20Code%20wallpaper%20Coding%20Wallpaper.png" alt="babel" width="100%" height="200"/>
-
 <h1 align="center">Hi 👋, I'm Mauricio Giana</h1>
 <h3 align="center">An Argentinian Full-Stack Dev looking for challenges and knowledge.</h3>
 
