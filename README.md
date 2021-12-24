@@ -1,4 +1,5 @@
-![Wlcome](https://github.com/MauricioGiana/MauricioGiana/blob/9005c18ae14f6bc86d66459fd90672b88af2e808/assets/ezgif.com-gif-maker.gif)<h1 align="center">Hi 👋, I'm Mauricio Giana</h1>
+<img src="https://github.com/MauricioGiana/MauricioGiana/blob/9005c18ae14f6bc86d66459fd90672b88af2e808/assets/ezgif.com-gif-maker.gif" align="center"/>
+          <h1 align="center">Hi 👋, I'm Mauricio Giana</h1>
 <h3 align="center">An Argentinian Full-Stack Dev looking for challenges and knowledge.</h3>
 
 - 🌱 I’m currently learning **about deployment**
