@@ -27,13 +27,15 @@
 Creation of a SPA (Single Page Application), with a "Pokemon" theme, which on the one hand brings information from an API, and on the other hand has a database through which the user can create, edit or delete his own pokemons.
 The app allows you to search, filter, sort and add different pokemons to favorites.
 
-Deployed Front-End:
-https://pokemon-app-front.vercel.app/
+<h4>Front-End:</h4>
+Deployed: https://pokemon-app-front.vercel.app/
+Reopsitory: https://github.com/MauricioGiana/pokemon-app-front.git
 
-Deployed Back-End:
-https://pokemon-app-mg.herokuapp.com/
+<h4>Back-End:</h4>
+Deployed: https://pokemon-app-mg.herokuapp.com/
+Repository: https://github.com/MauricioGiana/pokemon-app-back.git
 
-Video demostration: 
+<h4>Video demostration:</h4>
 https://vimeo.com/675010267
 
 <div align="center"><img width="400" src="https://github.com/MauricioGiana/MauricioGiana/blob/6d54bc7de2fdb72fe8be67d2f008a555666cc7f5/assets/pokeapp.jpg"/></div>
@@ -44,13 +46,13 @@ https://vimeo.com/675010267
  Elaboration with a 6 members work team of a web page which objective is to connect people who offer services on a small scale (such as carpentry, construction, etc.), with potential clients, facilitating and accelerating the possibility both of being hired and to  find a worker who matches my needs.
 The user can post service requests, contact convenient workers, offer their services to other requesting users, receive job alerts, among others.
 
-Front-End:
+<h4>Front-End:</h4>
 
 Deployed: https://work-app-front-lime.vercel.app/
 
 Repository: https://github.com/MauricioGiana/Work-App-Front.git
 
-Back-End:
+<h4>Back-End:</h4>
 
 Deployed: https://work-app-henry.herokuapp.com/
 
