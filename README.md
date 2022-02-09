@@ -33,7 +33,7 @@ https://pokemon-app-front.vercel.app/
 Deployed Back-End:
 https://pokemon-app-mg.herokuapp.com/
 
-<div align="center"><img src="https://github.com/MauricioGiana/MauricioGiana/blob/9005c18ae14f6bc86d66459fd90672b88af2e808/assets/pokeapp.jpg"/></div>
+<div align="center"><img src="https://github.com/MauricioGiana/MauricioGiana/blob/6d54bc7de2fdb72fe8be67d2f008a555666cc7f5/assets/pokeapp.jpg"/></div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciogiana&show_icons=true&locale=en&layout=compact" alt="mauriciogiana" /></p>
