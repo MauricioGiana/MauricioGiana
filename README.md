@@ -36,7 +36,7 @@ https://pokemon-app-mg.herokuapp.com/
 Video demostration: 
 https://vimeo.com/675010267
 
-<div align="center"><img src="https://github.com/MauricioGiana/MauricioGiana/blob/6d54bc7de2fdb72fe8be67d2f008a555666cc7f5/assets/pokeapp.jpg"/></div>
+<div align="center"><img width="400" src="https://github.com/MauricioGiana/MauricioGiana/blob/6d54bc7de2fdb72fe8be67d2f008a555666cc7f5/assets/pokeapp.jpg"/></div>
 
 
 <h3 align="center">Henry Final Project: "Work-App"</h3>
@@ -54,7 +54,7 @@ Back-End:
 Deployed: https://work-app-henry.herokuapp.com/
 Repository: https://github.com/MauricioGiana/Work-App-Back.git
 
-<p><img width="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciogiana&show_icons=true&locale=en&layout=compact" alt="mauriciogiana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciogiana&show_icons=true&locale=en&layout=compact" alt="mauriciogiana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciogiana&show_icons=true&locale=en" alt="mauriciogiana" /></p>
 
