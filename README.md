@@ -33,9 +33,26 @@ https://pokemon-app-front.vercel.app/
 Deployed Back-End:
 https://pokemon-app-mg.herokuapp.com/
 
+Video demostration: 
+https://vimeo.com/675010267
+
 <div align="center"><img src="https://github.com/MauricioGiana/MauricioGiana/blob/6d54bc7de2fdb72fe8be67d2f008a555666cc7f5/assets/pokeapp.jpg"/></div>
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/675010267?h=1228d35857" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<h3 align="center">Henry Final Project: "Work-App"</h3>
+
+ Elaboration with a 6 members work team of a web page which objective is to connect people who offer services on a small scale (such as carpentry, construction, etc.), with potential clients, facilitating and accelerating the possibility both of being hired and to  find a worker who matches my needs.
+The user can post service requests, contact convenient workers, offer their services to other requesting users, receive job alerts, among others.
+
+Front-End:
+
+Deployed: https://work-app-front-lime.vercel.app/
+Repository: https://github.com/MauricioGiana/Work-App-Front.git
+
+Back-End:
+
+Deployed: https://work-app-henry.herokuapp.com/
+Repository: https://github.com/MauricioGiana/Work-App-Back.git
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciogiana&show_icons=true&locale=en&layout=compact" alt="mauriciogiana" /></p>
 
