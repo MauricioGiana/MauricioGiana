@@ -54,7 +54,7 @@ Back-End:
 Deployed: https://work-app-henry.herokuapp.com/
 Repository: https://github.com/MauricioGiana/Work-App-Back.git
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciogiana&show_icons=true&locale=en&layout=compact" alt="mauriciogiana" /></p>
+<p><img width="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciogiana&show_icons=true&locale=en&layout=compact" alt="mauriciogiana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciogiana&show_icons=true&locale=en" alt="mauriciogiana" /></p>
 
