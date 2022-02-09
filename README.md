@@ -29,10 +29,12 @@ The app allows you to search, filter, sort and add different pokemons to favorit
 
 <h4>Front-End:</h4>
 Deployed: https://pokemon-app-front.vercel.app/
+
 Reopsitory: https://github.com/MauricioGiana/pokemon-app-front.git
 
 <h4>Back-End:</h4>
 Deployed: https://pokemon-app-mg.herokuapp.com/
+
 Repository: https://github.com/MauricioGiana/pokemon-app-back.git
 
 <h4>Video demostration:</h4>
