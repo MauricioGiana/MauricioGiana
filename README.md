@@ -47,11 +47,13 @@ The user can post service requests, contact convenient workers, offer their serv
 Front-End:
 
 Deployed: https://work-app-front-lime.vercel.app/
+
 Repository: https://github.com/MauricioGiana/Work-App-Front.git
 
 Back-End:
 
 Deployed: https://work-app-henry.herokuapp.com/
+
 Repository: https://github.com/MauricioGiana/Work-App-Back.git
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciogiana&show_icons=true&locale=en&layout=compact" alt="mauriciogiana" /></p>
