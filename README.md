@@ -12,7 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mauricio giana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio giana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mauricio-giana-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio giana" height="30" width="40" /></a>
+<a href="https://mauriciogiana.github.io/portfolio/" target="blank"><img align="center" src="https://github.com/MauricioGiana/portfolio/blob/743b6055cdee2622116c586fd1ebdb236bfdce30/src/assets/portfolio-logo.png" alt="mauriciogiana" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mauriciogiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mauriciogiana" height="30" width="40" /></a>
 </p>
 
